@@ -1,0 +1,1 @@
+# jmm-rick-morty-wiki-react-cypress-test-fsd-2022
